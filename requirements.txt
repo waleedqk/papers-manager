@@ -1,0 +1,6 @@
+Flask==3.0.3          # Web framework for creating web interfaces
+fastapi==0.115.0      # Web framework for creating APIs
+uvicorn==0.32.0       # ASGI server to run FastAPI
+pydantic==2.9.1       # Data validation and parsing for FastAPI
+Jinja2==3.1.2         # Templating engine for Flask
+pandas==2.2.0         # Data manipulation library for querying JSON
